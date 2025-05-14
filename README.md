@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepthi-g-kunder&label=Profile%20views&color=0e75b6&style=flat" alt="deepthi-g-kunder" /> </p>
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 Working as a Junior Data Analyst, enhancing skills in SQL, Python, and data visualization.
 
 - 📫 How to reach me **deepthikunder0@gmail.com**
 

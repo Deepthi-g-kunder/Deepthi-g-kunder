@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepthi-g-kunder&label=Profile%20views&color=0e75b6&style=flat" alt="deepthi-g-kunder" /> </p>
 
-- 🌱 Individual with expertise in SQL and data visualization tool's to drive actionable business insights.
+- 🌱 Individual with expertise in SQL, Python and Data visualization tool's to drive actionable business insights.
 
 - 📫 How to reach me **deepthikunder0@gmail.com**
 

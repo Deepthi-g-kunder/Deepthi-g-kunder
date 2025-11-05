@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deepthi.G.Kunder</h1>
-<h3 align="center">A passionate Data Analyst from India.</h3>
+<h1 align="center"> Deepthi.G.Kunder</h1>
+<h3 align="center"> Data Analyst .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepthi-g-kunder&label=Profile%20views&color=0e75b6&style=flat" alt="deepthi-g-kunder" /> </p>
 
